@@ -10,24 +10,11 @@ namespace Uma
     public class Monochrome : MonoBehaviour
     {
         #region Public Properties
-        [SerializeField, Range(0, 3)]
-        int _mode = 0;
-
-        public int mode
-        {
-            get { return _mode; }
-            set { _mode = value; }
-        }
         #endregion
 
         #region Private Properties
         [SerializeField]
         Shader _shader;
-        // public Shader shader
-        // {
-        //     get { return _shader; }
-        //     set { _shader = value; }
-        // }
         Material _material;
         #endregion
 
