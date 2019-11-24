@@ -1,0 +1,14 @@
+{
+    "name": "Monochome.editor",
+    "references": [
+        "GUID:40b75b6de30d64f489a05f7ee7d8b774"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
